@@ -1,17 +1,20 @@
 body {
     justify-content: center;
     align-items: center;
-    height: 100vh;
     background-color:beige;
-    font-family: Arial, sans-serif;
+    height: 300pxS;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .tarjeta {
-    background-color: white;
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    text-align: center;
+    letter-spacing: 1.5;
     width: 300px;
 }
 
@@ -19,13 +22,15 @@ body {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    object-fit: cover;
+    object-fit:cover;
+    text-align: center;
 }
 .descripción {
     width: 100px;
-    height: 100px;
+    height: 300px;
     border-radius: 50%;
     object-fit: cover;
+    text-align: center;
 }
 h1 { font-size: 24px; margin: 10px 0; }
 .title { color: #666; margin-bottom: 20px; }
