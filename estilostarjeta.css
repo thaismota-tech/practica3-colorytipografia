@@ -1,37 +1,44 @@
 body {
     justify-content: center;
     align-content: center;
-    background-color:beige;
-    height: 300pxS;
+    height: 200px;
     font-family: Arial, Helvetica, sans-serif;
+    text-transform: none;
 }
 
 .tarjeta {
-    background-color: yellow;
+    background-color: red;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    padding: 10px;
+    padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     width: 300px;
+    height: 200px;
     justify-content: center;
 }
 
 .título {
-    width: 100px;
-    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    height: 4px;
     border-radius: 50%;
     text-align: center;
     justify-content: center;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+
 .descripción {
-    width: 100px;
-    height: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    height: 50px;
     border-radius: 50%;
-    text-align: center;
+    text-align:center;
     letter-spacing: 2.5;
-    justify-content: center;
+    line-height: 1.5;
+    justify-content:space-between;
+    color:white;
 }
+
 h1 { font-size: 24px; margin: 10px 0; }
-.tarjeta { color: #666; margin-bottom: 20px; }
+.tarjeta { color:navy; margin-bottom: 20px; }
