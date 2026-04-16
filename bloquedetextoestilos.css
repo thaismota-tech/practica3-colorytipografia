@@ -1,4 +1,18 @@
-.texto-justificado {
+.párrafouno {
+  text-align: justify;       
+  text-indent: 25px;        
+  line-height: 1.6;          
+  letter-spacing: 0.5px;     
+  margin-bottom: 15px;      
+}
+.párrafodos {
+  text-align: justify;       
+  text-indent: 25px;        
+  line-height: 1.6;          
+  letter-spacing: 0.5px;     
+  margin-bottom: 15px;      
+}
+.párrafotres {
   text-align: justify;       
   text-indent: 25px;        
   line-height: 1.6;          
