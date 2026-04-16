@@ -23,9 +23,9 @@ body {
     width: 400px;
     height: 4px;
     border-radius: 50%;
-    text-align: center;
     justify-content: center;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    color: white;
+    text-shadow: 5px 7px 5px rgba(0, 0, 7, 0.5);
 }
 
 .descripción {
@@ -41,4 +41,5 @@ body {
 }
 
 h1 { font-size: 24px; margin: 10px 0; }
-.tarjeta { color:navy; margin-bottom: 20px; }
+.tarjeta { color:navy; margin-bottom: 20px;
+text-align: center; }
