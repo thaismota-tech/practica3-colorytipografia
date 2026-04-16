@@ -1,0 +1,7 @@
+.texto-justificado {
+  text-align: justify;       
+  text-indent: 25px;        
+  line-height: 1.6;          
+  letter-spacing: 0.5px;     
+  margin-bottom: 15px;      
+}
