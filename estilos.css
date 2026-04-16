@@ -4,4 +4,16 @@ h1 {
     text-align: center;
     font-size: 35px;
 }
+p {
+    color:black;
+    text-align: justify;
+    line-height: 1.5;
 }
+h2 {
+    color: cadetblue;
+}
+h3{
+    color: deepskyblue;
+}
+}
+ 
